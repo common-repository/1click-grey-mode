@@ -1,0 +1,9 @@
+html {
+    margin: 0 !important;
+    height: 100%;
+}
+
+body.grey-mode {
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+}
